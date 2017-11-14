@@ -1,5 +1,5 @@
 # Example
 
 hello
-hai
+
 child
